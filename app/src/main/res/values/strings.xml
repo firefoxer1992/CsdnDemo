@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CsdnDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="open_drawer">openDrawer</string>
+    <string name="close_drawer">closeDrawer</string>
+    <string name="test">test</string>
+    <string name="money">10000 C币</string>
+    <string name="name">超神锐</string>
+    
+    
+    <string name="add">add</string>
+    <string name="search">search</string>
+    
+</resources>

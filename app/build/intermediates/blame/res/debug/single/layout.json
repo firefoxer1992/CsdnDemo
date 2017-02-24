@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "E:\\AndroidMyProject\\CsdnDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\AndroidMyProject\\CsdnDemo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\AndroidMyProject\\CsdnDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "E:\\AndroidMyProject\\CsdnDemo\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidMyProject\\CsdnDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_life.xml",
+        "source": "E:\\AndroidMyProject\\CsdnDemo\\app\\src\\main\\res\\layout\\fragment_life.xml"
+    },
+    {
+        "merged": "E:\\AndroidOpenSourceProject\\CsdnDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "E:\\AndroidOpenSourceProject\\CsdnDemo\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidMyProject\\CsdnDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_language.xml",
+        "source": "E:\\AndroidMyProject\\CsdnDemo\\app\\src\\main\\res\\layout\\fragment_language.xml"
+    },
+    {
+        "merged": "E:\\AndroidOpenSourceProject\\CsdnDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_develop.xml",
+        "source": "E:\\AndroidOpenSourceProject\\CsdnDemo\\app\\src\\main\\res\\layout\\fragment_develop.xml"
+    },
+    {
+        "merged": "E:\\AndroidOpenSourceProject\\CsdnDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_language.xml",
+        "source": "E:\\AndroidOpenSourceProject\\CsdnDemo\\app\\src\\main\\res\\layout\\fragment_language.xml"
+    },
+    {
+        "merged": "E:\\AndroidMyProject\\CsdnDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_develop.xml",
+        "source": "E:\\AndroidMyProject\\CsdnDemo\\app\\src\\main\\res\\layout\\fragment_develop.xml"
+    },
+    {
+        "merged": "E:\\AndroidOpenSourceProject\\CsdnDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\AndroidOpenSourceProject\\CsdnDemo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\AndroidOpenSourceProject\\CsdnDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_life.xml",
+        "source": "E:\\AndroidOpenSourceProject\\CsdnDemo\\app\\src\\main\\res\\layout\\fragment_life.xml"
+    },
+    {
+        "merged": "E:\\AndroidOpenSourceProject\\CsdnDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_second.xml",
+        "source": "E:\\AndroidOpenSourceProject\\CsdnDemo\\app\\src\\main\\res\\layout\\activity_second.xml"
+    },
+    {
+        "merged": "E:\\AndroidMyProject\\CsdnDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_second.xml",
+        "source": "E:\\AndroidMyProject\\CsdnDemo\\app\\src\\main\\res\\layout\\activity_second.xml"
+    }
+]

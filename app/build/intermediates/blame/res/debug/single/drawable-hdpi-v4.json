@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\AndroidOpenSourceProject\\CsdnDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_drawer.bmp",
+        "source": "E:\\AndroidOpenSourceProject\\CsdnDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_drawer.bmp"
+    },
+    {
+        "merged": "E:\\AndroidMyProject\\CsdnDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_drawer.bmp",
+        "source": "E:\\AndroidMyProject\\CsdnDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_drawer.bmp"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\AndroidMyProject\\CsdnDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\AndroidMyProject\\CsdnDemo\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\AndroidOpenSourceProject\\CsdnDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\AndroidOpenSourceProject\\CsdnDemo\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]

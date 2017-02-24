@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_tab_pressed">#6633B5E5</color>
+    <color name="white">#ffffff</color>
+    <color name="yellow">#F8F8FF00</color>   
+    <color name="brown">#808080</color> 
+    <color name="blue">#0000FF</color>
+    <color name="red">#ff0000</color>
+    <color name="black">#000000</color>
+</resources>
